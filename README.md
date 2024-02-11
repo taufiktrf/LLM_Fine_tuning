@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository documents the fine-tuning process of the Meta Llama 2 7B large language model, focusing on the financial domain. The project aims to enhance the model's understanding and generation capabilities specific to financial text data. The entire process, from fine-tuning the model to deploying it, is facilitated using various AWS services. Detailed steps and explanations are provided within the Markdown cells of Jupyter notebooks. This project is undertaken as part of the "Introducing Generative AI with AWS" course available on Coursera.
+This repository documents the fine-tuning process of the Meta Llama 2 7B large language model, focusing on the financial domain. The project aims to enhance the model's understanding and generation capabilities specific to financial text data. The entire process, from fine-tuning the model to deploying it, is facilitated using various AWS services. Detailed steps and explanations are provided within the Markdown cells of Jupyter notebooks. This project is undertaken as part of the "Introducing Generative AI with AWS" course available on Udacity.
 
 ## Key Tasks
 
